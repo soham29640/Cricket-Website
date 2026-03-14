@@ -1,48 +1,28 @@
-body
-{
-font-family: Arial;
-margin:0;
-background:#f4f4f4;
-text-align:center;
+body{
+
+font-family: Arial, sans-serif;
+line-height:1.6;
+margin:40px;
+background:#fafafa;
+
 }
 
-header
-{
-background:#2c3e50;
-color:white;
-padding:20px;
+h1{
+color:#0b5394;
 }
 
-nav a
-{
-color:white;
-margin:15px;
+nav a{
+
+margin-right:15px;
+font-weight:bold;
 text-decoration:none;
-font-size:18px;
+
 }
 
-.hero
-{
-padding:40px;
-background:#27ae60;
-color:white;
-}
+section{
 
-.main-img
-{
-width:80%;
-margin-top:20px;
-}
-
-.player img
-{
-width:200px;
-}
-
-footer
-{
-margin-top:40px;
-background:#333;
-color:white;
+margin-bottom:35px;
 padding:10px;
+border-left:4px solid #ddd;
+
 }
